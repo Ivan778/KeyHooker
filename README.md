@@ -19,8 +19,8 @@ Works perfectly on macOS 10.11.6
   
   App's interface:
   
-<img src="https://github.com/Ivan778/KeyHooker/blob/master/Images/AppInterface.png" alt="What keys you allowed to lock" width="700">
 <img src="https://github.com/Ivan778/KeyHooker/blob/master/Images/LockKey.png" alt="What keys you allowed to lock" width="700">
+<img src="https://github.com/Ivan778/KeyHooker/blob/master/Images/AppInterface.png" alt="What keys you allowed to lock" width="700">
   
   I'm new to macOS delelopment, so, give some feedback if you don't like something and want me to change it.
   
