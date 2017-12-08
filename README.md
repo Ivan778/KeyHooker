@@ -6,7 +6,7 @@ Works perfectly on macOS 10.11.6
 
   This app allows to disable different keys. For example, you would like to disable 'A'-key after pressing 'B'-key within 200 ms. You just need to click button "Add key" and press needed key. It will appear in the table. After type required delay and keys you want to disable (if you want to disable 'Q', 'W', 'E', 'R', 'T', 'Y', type 'qwerty'). On the picture below you may see keys, allowed for disabling.
 
-<img src="https://github.com/Ivan778/KeyHooker/blob/master/keyboard.jpg" alt="What keys you allowed to lock" width="700">
+<img src="https://github.com/Ivan778/KeyHooker/blob/master/Images/keyboard.jpg" alt="What keys you allowed to lock" width="700">
 
   If you would like to lock some shortcuts, you also can do it (small lifehack). For example, you need to lock CMD+C and CMD+V. So, add CMD, set delay about 10 seconds and disable 'C' and 'V'. You got it!
   If you need delete some keys from table, simply select it and press "Remove key".
@@ -19,8 +19,8 @@ Works perfectly on macOS 10.11.6
   
   App's interface:
   
-<img src="https://github.com/Ivan778/KeyHooker/blob/master/AppInterface.png" alt="What keys you allowed to lock" width="700">
-<img src="https://github.com/Ivan778/KeyHooker/blob/master/LockKey.png" alt="What keys you allowed to lock" width="700">
+<img src="https://github.com/Ivan778/KeyHooker/blob/master/Images/AppInterface.png" alt="What keys you allowed to lock" width="700">
+<img src="https://github.com/Ivan778/KeyHooker/blob/master/Images/LockKey.png" alt="What keys you allowed to lock" width="700">
   
   I'm new to macOS delelopment, so, give some feedback if you don't like something and want me to change it.
   
