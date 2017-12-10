@@ -1,8 +1,7 @@
 # KeyHooker
-### Keyhooker for macOS
+### Keyhooker for macOS (works perfectly on macOS 10.11.6)
 
 IMPORTANT: requires root
-Works perfectly on macOS 10.11.6
 
   This app allows to disable different keys. For example, you would like to disable 'A'-key after pressing 'B'-key within 200 ms. You just need to click button "Add key" and press needed key. It will appear in the table. After type required delay and keys you want to disable (if you want to disable 'Q', 'W', 'E', 'R', 'T', 'Y', type 'qwerty'). On the picture below you may see keys, allowed for disabling.
 
