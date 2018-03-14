@@ -12,7 +12,7 @@ IMPORTANT: requires root
   
   Also this app has hidden mode, which allows you to spy for someone's Mac. It will send key- and mouse-log to typed E-mail. Just type your E-mail, size of file to send and check "Run app in hidden mode next time (restart app)". Click "Save and" restart an app. It will dissapear from Dock. Well, you'll still see it in System Monitoring.
   If you need to hide your app (for example, you disabled shortcuts and do not want to see app in your Dock), just press the next:<br />
-                                        <pre>CMD LEFT, CMD RIGHT, h, o, o, k, e, r<br />
+                                        <pre>CMD LEFT, CMD RIGHT, h, o, o, k, e, r</pre><br />
   To unhide app type the same key sequence.
   NOTE: type keys for hide/unhide separately.
   
